@@ -12,6 +12,7 @@ const Hero = () => {
         <h1 className="hero-heading">
           Discover the <span className="hero-span">Best</span> Food and Drinks
         </h1>
+
         <p className="hero-para">
           Naturally made Healthcare Products for the better care & support of
           your body.

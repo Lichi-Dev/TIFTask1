@@ -21,6 +21,7 @@ const LatestArticle = () => {
   return (
     <div className="latest-article-container">
       <h1 className="latest-article-heading">Latest Articles</h1>
+
       <div className="carousel-container">
         <div
           className="carousel-item"
