@@ -6,6 +6,7 @@ import reportWebVitals from "./reportWebVitals";
 import "./fonts/SourceSansPro/source-sans-pro.bold.ttf";
 import "./fonts/SourceSansPro/source-sans-pro.regular.ttf";
 import "./fonts/OpenSans/open-sans.regular.ttf";
+import "./fonts/Poppins/Poppins-Bold.ttf";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
