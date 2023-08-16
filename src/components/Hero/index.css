@@ -98,6 +98,7 @@
     justify-content: center;
     width: 100%;
     padding: 0px;
+    min-height: 65vh;
   }
   .hero-image-sm {
     display: block;

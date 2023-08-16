@@ -51,6 +51,7 @@
   margin: 10px;
   font-size: 20px;
   border: none;
+  cursor: pointer;
 }
 .article-container {
   border-radius: 20.937px;
@@ -96,6 +97,7 @@
   font-weight: 500;
   line-height: 35.593px;
   background-color: transparent;
+  cursor: pointer;
 }
 @media screen and (max-width: 1200px) {
   .latest-article-container {
